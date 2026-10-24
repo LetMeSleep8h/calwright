@@ -1,0 +1,5 @@
+title,start,end,description,location,timezone,recurrence,all_day
+Team standup,2026-10-26 09:00,2026-10-26 09:30,Daily sync with the remote crew,Zoom,America/New_York,FREQ=DAILY,
+Sprint planning,2026-10-28 14:00,2026-10-28 15:30,"Plan next sprint; bring estimates, blockers",Meeting room 3,Europe/London,FREQ=WEEKLY;BYDAY=WE,
+Release day,2026-11-01,,Ship v2.0 to production,,,,yes
+Dentist appointment,10/29/2026 3:00 PM,,Routine checkup,Smile Clinic,America/Chicago,,
